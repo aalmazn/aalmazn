@@ -23,13 +23,11 @@ HTML, CSS, JavaScrip</p>
 <br>
 1. Reusable UI components built from scratch
 <br>
+
 2. Small frontend experiments focused on layout and interaction
 <br>
-3. Improving documentation and README quality across projects</p>
 
-## 📫 Let's connect
-[![Behance](https://img.shields.io/badge/Behance-Portfolio-1769ff?style=flat)](https://behance.net/aalmzn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat)](https://linkedin.com/in/arianealmazan)
+3. Improving documentation and README quality across projects</p>
 
 <!--
 **aalmazn/aalmazn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
