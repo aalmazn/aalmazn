@@ -23,10 +23,6 @@ Git, GitHub, Notion
 2. Small frontend experiments focused on layout and interaction  
 3. Improving documentation and README quality across projects
 
-## 📌 Featured Projects
-Check the pinned repositories below.  
-Each project is scoped, documented, and intentionally designed.
-
 ## 📫 Contact
 Portfolio: coming soon  
 LinkedIn: https://www.linkedin.com/in/arianealmazan/
