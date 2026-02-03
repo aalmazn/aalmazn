@@ -4,7 +4,7 @@ I'm Aryan — a UI/UX designer learning to code
 
 ## 🧠 About
 I focus on clean interfaces, clear structure, and practical execution.  
-My work sits at the intersection of design systems, frontend logic, and documentation. 
+My work sits at the intersection of design systems, frontend logic, and documentation.
 Currently building small, focused projects to sharpen fundamentals and ship consistently.
 
 ## 🛠️ Stack
