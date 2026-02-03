@@ -1,4 +1,7 @@
-# Hey there! <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/0f4e20a9-e14f-454e-b75c-7bf0022c91f7" />
+# Hey there! <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture>
 
 
 I'm Aryan — a UI/UX designer learning to code
