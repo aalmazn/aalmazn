@@ -1,23 +1,24 @@
-# Hey there! <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture>
+<div align="center">
 
+<div style="max-width: 520px; padding: 24px; border: 1px solid #30363d; border-radius: 8px;">
 
-I'm Aryan — a UI/UX designer learning to code
+<h3>Hello, I'm Aryan 👋</h3>
 
-## 🧠 About
+<p>🧠 About
 I focus on clean interfaces, clear structure, and practical execution.  
-My work sits at the intersection of design systems, frontend logic, and documentation.
+My work sits at the intersection of design systems, frontend logic, and documentation.</p>
 
-## 🛠️ Stack
+<p>🛠️ Stack
 Design  
 Figma, Design Systems, UX Documentation
 
 Frontend  
-HTML, CSS, JavaScript
+HTML, CSS, JavaScrip</p>
 
-## 🌱 Currently
+<p>🌱 Currently
 1. Reusable UI components built from scratch  
 2. Small frontend experiments focused on layout and interaction  
-3. Improving documentation and README quality across projects
+3. Improving documentation and README quality across projects</p>
 
 ## 📫 Let's connect
 [![Behance](https://img.shields.io/badge/Behance-Portfolio-1769ff?style=flat)](https://behance.net/aalmzn)
