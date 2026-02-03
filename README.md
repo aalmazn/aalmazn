@@ -5,8 +5,7 @@ I design systems, then ship them.
 
 ## 🧠 About
 I focus on clean interfaces, clear structure, and practical execution.  
-My work sits at the intersection of design systems, frontend logic, and documentation that actually makes sense.
-
+My work sits at the intersection of design systems, frontend logic, and documentation.
 Currently building small, focused projects to sharpen fundamentals and ship consistently.
 
 ## 🛠️ Stack
