@@ -17,8 +17,10 @@ HTML, CSS, JavaScrip</p>
 
 <p>🌱 Currently
 <br>
-1. Reusable UI components built from scratch  
-2. Small frontend experiments focused on layout and interaction  
+1. Reusable UI components built from scratch
+<br>
+2. Small frontend experiments focused on layout and interaction
+<br>
 3. Improving documentation and README quality across projects</p>
 
 ## 📫 Let's connect
