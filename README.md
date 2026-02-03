@@ -30,7 +30,7 @@ Each project is scoped, documented, and intentionally designed.
 
 ## 📫 Contact
 Portfolio: coming soon  
-LinkedIn: add link here## Hi there 👋
+LinkedIn: https://www.linkedin.com/in/arianealmazan/
 
 <!--
 **aalmazn/aalmazn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
