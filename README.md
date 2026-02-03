@@ -13,11 +13,9 @@ My work sits at the intersection of design systems, frontend logic, and document
 <p>🛠️ Stack
 <br>
 Design<br>
-<br>  
 Figma, Design Systems, UX Documentation
 <br> 
 Frontend<br>
-<br>
 HTML, CSS, JavaScrip</p>
 
 <p>🌱 Currently
