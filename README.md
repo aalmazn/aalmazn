@@ -1,4 +1,4 @@
-# Aryan
+# Hey there!
 
 UI and UX designer transitioning into frontend development.  
 I design systems, then ship them.
