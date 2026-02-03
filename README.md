@@ -16,7 +16,7 @@ Design<br>
 Figma, Design Systems, UX Documentation<br>
 
 Frontend<br>
-HTML, CSS, JavaScrip</p>
+HTML, CSS, JavaScript</p>
 
 <p>🌱 Currently
 <br>
