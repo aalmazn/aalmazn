@@ -1,7 +1,6 @@
 <div align="left">
 
 <div style="max-width: 520px; padding: 24px; border: 1px solid #30363d; border-radius: 8px;">
-
 <h2>Hello, I'm Aryan — a UI/UX designer 👋</h2>
 
 <p>🧠 About
