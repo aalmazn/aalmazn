@@ -6,16 +6,17 @@
 
 <p>🧠 About
 <br>
-I focus on clean interfaces, clear structure, and practical execution.  
+I focus on clean interfaces, clear structure, and practical execution.
+<br>
 My work sits at the intersection of design systems, frontend logic, and documentation.</p>
 
 <p>🛠️ Stack
 <br>
-Design
+Design<br>
 <br>  
 Figma, Design Systems, UX Documentation
 <br> 
-Frontend
+Frontend<br>
 <br>
 HTML, CSS, JavaScrip</p>
 
