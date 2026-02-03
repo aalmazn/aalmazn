@@ -1,4 +1,5 @@
-# Hey there! 👋
+# Hey there! <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0f4e20a9-e14f-454e-b75c-7bf0022c91f7" />
+
 
 I'm Aryan — a UI/UX designer learning to code
 
