@@ -15,8 +15,7 @@ Figma, Design Systems, UX Documentation
 Frontend  
 HTML, CSS, JavaScrip</p>
 
-<p>🌱 Currently
-  <br>
+<p><br>🌱 Currently
 1. Reusable UI components built from scratch  
 2. Small frontend experiments focused on layout and interaction  
 3. Improving documentation and README quality across projects</p><br>
