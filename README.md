@@ -2,9 +2,10 @@
 
 <div style="max-width: 520px; padding: 24px; border: 1px solid #30363d; border-radius: 8px;">
 
-<h3>Hello, I'm Aryan 👋</h3>
-
+<h3>Hello, I'm Aryan — a UI/UX designer 👋</h3>
+--
 <p>🧠 About
+<br>
 I focus on clean interfaces, clear structure, and practical execution.  
 My work sits at the intersection of design systems, frontend logic, and documentation.</p>
 
