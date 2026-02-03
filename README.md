@@ -23,10 +23,8 @@ HTML, CSS, JavaScrip</p>
 <br>
 1. Reusable UI components built from scratch
 <br>
-
 2. Small frontend experiments focused on layout and interaction
 <br>
-
 3. Improving documentation and README quality across projects</p>
 
 <!--
