@@ -11,10 +11,12 @@ My work sits at the intersection of design systems, frontend logic, and document
 
 <p>🛠️ Stack
 <br>
-Design  
+Design
+<br>  
 Figma, Design Systems, UX Documentation
+<br> 
+Frontend
 <br>
-Frontend  
 HTML, CSS, JavaScrip</p>
 
 <p>🌱 Currently
@@ -25,7 +27,7 @@ HTML, CSS, JavaScrip</p>
 <br>
 3. Improving documentation and README quality across projects</p>
 
-<h3>Let's Connect!</h3>
+## 📫 Let's connect
 [![Behance](https://img.shields.io/badge/Behance-Portfolio-1769ff?style=flat)](https://behance.net/aalmzn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat)](https://linkedin.com/in/arianealmazan)
 
