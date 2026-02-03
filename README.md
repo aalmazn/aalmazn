@@ -14,7 +14,7 @@ Frontend
 HTML, CSS, JavaScript
 
 Workflow  
-GitHub, Vercel, Notion
+Notion, Vercel, Github
 
 ## 🌱 Currently
 1. Reusable UI components built from scratch  
