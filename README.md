@@ -1,7 +1,6 @@
-# Hey there!
+# Hey there! 👋
 
-UI and UX designer transitioning into frontend development.  
-I design systems, then ship them.
+I'm Aryan — a UI/UX designer learning to code
 
 ## 🧠 About
 I focus on clean interfaces, clear structure, and practical execution.  
@@ -16,15 +15,15 @@ Frontend
 HTML, CSS, JavaScript
 
 Workflow  
-Git, GitHub, Notion
+GitHub, Vercel, Notion
 
-## 🧪 What I am working on
+## 🌱 Currently
 1. Reusable UI components built from scratch  
 2. Small frontend experiments focused on layout and interaction  
 3. Improving documentation and README quality across projects
 
-## 📫 Contact
-Portfolio: coming soon  
+## 📫 Let's connect
+Portfolio: https://www.behance.net/aalmzn
 LinkedIn: https://www.linkedin.com/in/arianealmazan/
 
 <!--
