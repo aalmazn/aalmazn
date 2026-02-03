@@ -14,9 +14,6 @@ Figma, Design Systems, UX Documentation
 Frontend  
 HTML, CSS, JavaScript
 
-Workflow  
-Notion, Vercel, Github
-
 ## 🌱 Currently
 1. Reusable UI components built from scratch  
 2. Small frontend experiments focused on layout and interaction  
