@@ -10,9 +10,10 @@ I focus on clean interfaces, clear structure, and practical execution.
 My work sits at the intersection of design systems, frontend logic, and documentation.</p>
 
 <p>🛠️ Stack
+<br>
 Design  
 Figma, Design Systems, UX Documentation
-
+<br>
 Frontend  
 HTML, CSS, JavaScrip</p>
 
@@ -24,7 +25,7 @@ HTML, CSS, JavaScrip</p>
 <br>
 3. Improving documentation and README quality across projects</p>
 
-## 📫 Let's connect
+<h3>Let's Connect!</h3>
 [![Behance](https://img.shields.io/badge/Behance-Portfolio-1769ff?style=flat)](https://behance.net/aalmzn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat)](https://linkedin.com/in/arianealmazan)
 
