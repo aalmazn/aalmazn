@@ -14,7 +14,7 @@ My work sits at the intersection of design systems, frontend logic, and document
 <br>
 Design<br>
 Figma, Design Systems, UX Documentation
-<br> 
+<br>
 Frontend<br>
 HTML, CSS, JavaScrip</p>
 
