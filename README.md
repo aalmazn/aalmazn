@@ -23,8 +23,8 @@ GitHub, Vercel, Notion
 3. Improving documentation and README quality across projects
 
 ## 📫 Let's connect
-Portfolio: https://www.behance.net/aalmzn
-LinkedIn: https://www.linkedin.com/in/arianealmazan/
+[![Behance](https://img.shields.io/badge/Behance-Portfolio-1769ff?style=flat)](https://behance.net/aalmzn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat)](https://linkedin.com/in/arianealmazan)
 
 <!--
 **aalmazn/aalmazn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
