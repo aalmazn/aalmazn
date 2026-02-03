@@ -15,10 +15,10 @@ Figma, Design Systems, UX Documentation
 Frontend  
 HTML, CSS, JavaScrip</p>
 
-<p>🌱 Currently
+<p>🌱 Currently<br>
 1. Reusable UI components built from scratch  
 2. Small frontend experiments focused on layout and interaction  
-3. Improving documentation and README quality across projects</p>
+3. Improving documentation and README quality across projects</p><br>
 
 ## 📫 Let's connect
 [![Behance](https://img.shields.io/badge/Behance-Portfolio-1769ff?style=flat)](https://behance.net/aalmzn)
