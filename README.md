@@ -24,7 +24,7 @@ HTML, CSS, JavaScript</p>
 <br>
 2. Small frontend experiments focused on layout and interaction
 <br>
-3. Improving documentation and README quality across projects</p>
+3. Improving documentation</p>
 
 <!--
 **aalmazn/aalmazn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
